@@ -2,12 +2,12 @@
 
 /**
  *
- * main-Entry
+ * main-Entry.
  *
- * return: Always 0 (Success)
+ * return: Always 0 Success.
  */
 int main(void)
 {
-	print("with proper grammer, but the outcome is a piece of art,\n");
+	printf("with proper grammer, but the outcome is a piece of art,\n");
 	return (0);
 }
